@@ -1,0 +1,16 @@
+Ziel: Entwickle ein Aktivitätsdiagramm, das den Prozess der Bestellannahme bis hin zur Auslieferung von Produkten der Ice-Frost AG beschreibt. Die Diagrammerstellung sollte alle wesentlichen Schritte und Entscheidungen im Prozess abbilden.
+Beschreibung des Prozesses:
+Die Bestellannahme der IceFrost AG ist wie folgt organisiert: 
+1. Die Vertreter nehmen bei den Kunden schriftlich Bestellungen auf und melden sie dann 
+an die Vertriebsleitung, 
+2. Die Vertriebsleitung prüft die Bestellungen auf ihre sachliche Richtigkeit. 
+3. Falls Korrekturen notwendig sind, schickt die Vertriebsleitung den Vertretern eine 
+überarbeitete Fassung der Bestellungen. 
+4. Diese werden vom Vertreter bestätigt und müssen dann nochmals an die Vertriebsleitung geschickt werden. 
+5. Die Vertriebsleitung meldet die von den Vertretern getätigten Verkaufsabschlüsse an 
+das Gehaltsbüro zur Provisionsberechnung. 
+6. Die Vertriebsleitung beauftragt die Lagerabteilung mit der Bereitstellung der Artikel. 
+7. Die Lagerabteilung beauftragt die Auslieferungsabteilung mit der Zustellung der Sendungen. 
+8. Die Auslieferungsabteilung erstellt einen Lieferplan und stellt den Kunden die Sendungen zu. Die Auslieferung wird an die Vertriebsleitung gemeldet. 
+9. Nach Meldung der Auslieferung wird die Bestellung von der Vertriebsleitung abgeschlossen. 
+Die Aktion 5. läuft zu den Aktionen 6. bis 8. gleichzeitig ab. 
