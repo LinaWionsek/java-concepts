@@ -1,2 +1,14 @@
 Module = Unterprojekt - Projekt in einem Projekt
 code sagt jdk: führ programm aus, das wird dann mit konsole verknüpft
+
+main tippen für Einstiegspunkt
+
+Schleifenarten
+Kopfgesteuert: Überprüfung findet am Beginn der Schleife statt
+Fußgesteuert: Erst wird was gemacht, dann überprüfen, ob noch ein Schritt nötig ist
+
+Ablaufdiagramm
+Weiterführungsbedingung
+Abbruchbedingung
+
+immer wenn mehrere Pfeile aus Route raus kommen müssen wir erklären warum die da rausgehen

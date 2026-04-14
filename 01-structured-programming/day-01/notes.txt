@@ -1,0 +1,7 @@
+Determinismus = eindeutige, klare Zuordnung
+Semikolon sagt System, dass eine Anweisung zu Ende ist
+sout -> shortcut für System.out.println()
+Math.pow() - power of - Exponenten bilden
+Pseudocode ist wie code nur nicht ausführbar
+    wichtig: eindeutiger stil
+    bei schleife mit {} andeuten
