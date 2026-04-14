@@ -1,0 +1,2 @@
+Module = Unterprojekt - Projekt in einem Projekt
+code sagt jdk: führ programm aus, das wird dann mit konsole verknüpft
