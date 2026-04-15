@@ -1,0 +1,30 @@
+Zustand = eine Sammlung von variablen oder mehrere variablen die zusammenarbeiten und was abbilden dem wir eine bedeutung zuordnen
+zb Algorithmus zwischen den unterschiedliochen aktivitäten verändert sich der Zustand
+
+Parallelisierung ist die zeitliche Aufsplittung: alles wird gleichzeitig gestartet
+Parallelisierung und Synchronisation
+1 Pfeil rein mehrere Pfeile raus
+2 Pfeile rein ein Pfeil raus
+
+Wenn explizit Akteure genannt werden, dann ruhig mit Partitionen (Schwimmbahnen) darstellen
+wenn in ihk handreichung steht dann Entscheidung und zhusammenführung: dann darf man mehrere wege hintereinander
+Diagramm erst auf nem Schmierzettel machen! Und erst wenns da fertig ist, mit Kuli.
+
+Typen
+Typerahnung Typ wird erahnt
+int - Ganzzahlen
+
+Reihenfolge der Operatoren
+https://introcs.cs.princeton.edu/java/11precedence/
+
+Zusatzinformationen zu Präzision von Kommazahlen
+https://0.30000000000000004.com/
+
+definition und initioalisierung trennen
+Was ist eine scratch file?
+
+automatische Konvertierung von Ganzzahl zu Kommazahl, aber andersherum nicht möglich
+round ist dafür gedacht dass wir wieder ne ganzkommerzahl rausbekommen
+
+STRG + D zum duplizieren
+

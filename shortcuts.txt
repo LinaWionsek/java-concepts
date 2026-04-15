@@ -1,0 +1,2 @@
+sout -> shortcut für System.out.println()
+STRG + D zum duplizieren

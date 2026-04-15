@@ -12,3 +12,4 @@ Weiterführungsbedingung
 Abbruchbedingung
 
 immer wenn mehrere Pfeile aus Route raus kommen müssen wir erklären warum die da rausgehen
+while: solange die Bedingung wahr ist, wiederholt sich die Schleife
