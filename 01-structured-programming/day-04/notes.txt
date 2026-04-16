@@ -1,0 +1,27 @@
+Systemrahmen immer mit hinmachen
+welche Akteure brauche ich
+welche Anwendungsfälle hab ich
+
+alle Anwendungsfälle müssen mit einem Akteur verknüpft sein
+
+Association
+Abhängigkeit: offene Pfeilspitze mit gestrichelter Linie, <<include>> (beinhaltet immer) und <<extend>> (kann erweitern)
+
+b kann sich selbst zu a mit dazu nehmen
+
+Exclude
+https://t2informatik.de/wissen-kompakt/use-case-diagramm/
+!-##### Der Pfeil zeigt immer auf den Basis-Use Case. #####-!
+Ihre Einkünfte per Steuererklärung deklarieren (Basis-Use Case)
+Belege beifügen (Erweiterung des Basis-Use Cases)
+und damit macht das dann sinn das der abbruch des vorgangs evtl bei der pin eingabe passieren kann
+
+Extensionpoint
+die Bedingung oder Beschreibung, dass wir verstehen wann die Erweiterung eine Rolle spielt
+Extensionpoint an der Stelle wo die Pfeilspitze is
+EP Navigieren: Weg unbekannt
+
+
+Generalisierung
+Generalisierung: durchgezogener Pfeil mit geschlossener Pfeilspitze
+Richtung: von spezialisierung nach generalisierung (das Spezielle muss das Generelle kennen)
