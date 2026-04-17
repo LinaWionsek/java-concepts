@@ -1,0 +1,35 @@
+Welche zwei grundlegenden Vorgänge interessieren Informatiker, wenn es um Daten geht?
+	Implementieren und Modellieren.
+	Kopieren und Einfügen.
+	Verarbeiten und Speichern.
+	Programmieren und Kompilieren.
+
+Woraus besteht das UML Aktivitätsdiagramm?
+	Aus Codezeilen in Java oder Python.
+	Nur aus Textbeschreibungen ohne grafische Elemente.
+	Aus Tabellen mit Zahlenwerten.
+	Aktivitäten, Start- und Endknoten, Verzweigungen, Notizen, Pfeilkanten, Partitionen/Swimlanes.
+
+Was sind die drei Elemente der strukturierten Softwareentwicklung?
+	Objektorientierung, Vererbung, Polymorphismus
+	HTML, CSS, JavaScript
+	Kompilierung, Debugging, Deployment
+	Anweisungssequenz, Verzweigung, Iteration
+
+Was ist ein String?
+	Ein Speicherort für Bilder.
+	Ein Datentyp, der Texte speichert.
+	Eine Methode zur Datenkompression.
+	Ein Datentyp für Dezimalzahlen.
+
+Was ist ein Integer?
+	Ein Datentyp, der Ganzzahlen speichert.
+	Ein logischer Operator.
+	Eine Schleife zur Wiederholung von Code.
+	Ein Datentyp für Textwerte.
+
+Was ist ein Boolean?
+	Ein Speicherformat für Bilder.
+	Ein Datentyp für große Textmengen.
+	Eine Methode zur Sortierung von Daten.
+	Ein Datentyp, der nur zwei Werte annehmen kann.

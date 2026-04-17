@@ -1,0 +1,17 @@
+Was ist eine IDE?
+	Ein Programm oder eine Sammlung von Programmen, mit denen programmiert wird.
+
+Was sind Variablen?
+	Variablen haben einen Bezeichner, unter dem sie einen Wert von einem bestimmten Typ speichern.
+
+Was ist ein Zustand (State) in der Programmierung?
+	Daten ergeben ein gemeinsames Bild, und das hat eine besondere Bedeutung.
+
+Was versteht man unter einer Zuweisung?
+	Eine Anweisung, in der einer Variable ein Wert zugewiesen wird.
+
+Was ist eine Verzweigung?
+	Wenn ein bestimmter Zustand besteht, dann soll diese Anweisung passieren, sonst diese.
+
+Was ist UML?
+	Modellierungsformen, die zum Dokumentieren und Kommunizieren verwendet werden kann.

@@ -1,0 +1,18 @@
+USE CASE DIAGRAM
+
+Multiplizität
+entweder ne eindeutige Zahl, oder ein Zahlenbereich getrennt mit Punkten
+20...* bedeutet mindestens 20
+1...5 bedeutet zwischen 1 und 5
+
+die zahl die neben der Assoziation oder akteur steht ist auch gemeint
+wenn zb neben dem akteur Kunde ne 1 steht ist es 1 Kunde
+wenn neben Ticket kaufen die 2 steht bedeutet es 2 Tickets
+
+
+JAVA
+Wo genau kommt die Konsole ins spiel?
+Wie ist das mit Autosafe in IntelliJ?
+
+
+schleife bei der wir etwas überprüfen, und bei der wir eine verzweigung haben, bis die richtige antwort ausgegeben wird

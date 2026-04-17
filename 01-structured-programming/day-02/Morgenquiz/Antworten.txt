@@ -1,0 +1,11 @@
+Was ist ein Algorithmus?
+	Eine schrittweise Handlungsabfolge aus Anweisungen. Deterministisch, d.h. dieselbe Eingabe erzeugt dieselbe Ausgabe. Endlich, d.h. am Ende terminiert er mit einem Ergebnis.
+
+Was bedeutet: "Der Algorithmus terminiert."
+	Der Algorithmus endet.
+
+Was ist Pseudo-Code?
+	Eine Modellierungsform um Algorithmen oder Ideen darzustellen. Pseudo-Code liest sich ähnlich wie eine Programmiersprache, ist aber keine.
+
+Was bedeutet Implementieren?
+	Implementieren ist das tatsächliche Programmieren eines Algorithmus in Code.

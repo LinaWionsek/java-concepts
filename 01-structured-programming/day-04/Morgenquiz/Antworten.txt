@@ -1,0 +1,17 @@
+Welche zwei grundlegenden Vorgänge interessieren Informatiker, wenn es um Daten geht?
+	Verarbeiten und Speichern.
+
+Woraus besteht das UML Aktivitätsdiagramm?
+	Aktivitäten, Start- und Endknoten, Verzweigungen, Notizen, Pfeilkanten, Partitionen/Swimlanes.
+
+Was sind die drei Elemente der strukturierten Softwareentwicklung?
+	Anweisungssequenz, Verzweigung, Iteration
+
+Was ist ein String?
+	Ein Datentyp, der Texte speichert.
+
+Was ist ein Integer?
+	Ein Datentyp, der Ganzzahlen speichert.
+
+Was ist ein Boolean?
+	Ein Datentyp, der nur zwei Werte annehmen kann. (wahr und falsch)
