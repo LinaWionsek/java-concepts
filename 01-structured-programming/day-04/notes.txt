@@ -9,7 +9,7 @@ Abhängigkeit: offene Pfeilspitze mit gestrichelter Linie, <<include>> (beinhalt
 
 b kann sich selbst zu a mit dazu nehmen
 
-Exclude
+Extend
 https://t2informatik.de/wissen-kompakt/use-case-diagramm/
 !-##### Der Pfeil zeigt immer auf den Basis-Use Case. #####-!
 Ihre Einkünfte per Steuererklärung deklarieren (Basis-Use Case)
