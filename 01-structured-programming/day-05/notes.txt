@@ -11,8 +11,10 @@ wenn neben Ticket kaufen die 2 steht bedeutet es 2 Tickets
 
 
 JAVA
-Wo genau kommt die Konsole ins spiel?
-Wie ist das mit Autosafe in IntelliJ?
+Scanner
+https://www.baeldung.com/java-scanner
+https://www.w3schools.com/java/java_user_input.asp
+https://javabeginners.de/Ein-_und_Ausgabe/Scanner.php
 
 
 schleife bei der wir etwas überprüfen, und bei der wir eine verzweigung haben, bis die richtige antwort ausgegeben wird
