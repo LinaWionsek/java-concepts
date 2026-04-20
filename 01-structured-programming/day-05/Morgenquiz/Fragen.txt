@@ -1,0 +1,29 @@
+Was ist ein Anwendungsfalldiagramm (Use-Case-Diagram)?
+	Eine Datenbankstruktur.
+	Ein Zeitplan für Softwareentwicklung.
+	Ein Überblick über bestimmte Fälle eines Systems.
+	Eine Liste von Programmiersprachen.
+
+Im UML Anwendungsfalldiagramm: Was sind die Merkmale der <include>-Assoziation?
+	A → B bedeutet: B ersetzt A vollständig.
+	A → B bedeutet: A inkludiert B meistens.
+	A → B bedeutet: A inkludiert B immer.
+	A → B bedeutet: A kann B optional verwenden, wenn nötig.
+
+Im UML Anwendungsfalldiagramm: Was sind die Merkmale der <extends>-Assoziation?
+	A ← B bedeutet: B ist eine unabhängige Aktion ohne Bezug zu A.
+	A ← B bedeutet: A wird durch B ersetzt.
+	A ← B bedeutet: B ist immer Bestandteil von A.
+	A ← B bedeutet: B kann bei A dabei sein.
+
+Was ist ein Operator in der Programmierung?
+	Ein Kommentar im Quellcode.
+	Ein Operator verarbeitet Werte.
+	Ein Gerät zur Codeausführung.
+	Eine Programmiersprache für Anfänger.
+
+Was ist eine Assoziation?
+	Verhältnisse von Variablen.
+	Kanten, die Elemente in ein Verhältnis setzen.
+	Methoden zur Optimierung.
+	Strukturelemente.
