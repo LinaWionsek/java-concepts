@@ -1,1 +1,38 @@
 argumente und parameter sind das selbe
+
+Beitrag ist auf jeden fall ein datensatz
+
+Menge an Daten
+
+was is gespeichert was ist verarbeitet wer gehört wo hin?
+
+möglich is auch: beiträge können sich selbst darstellen und müssen wissen in welchem forum sie sich darstellen
+akteur is mehr so ne idee, technisch sit eher speichern oder ztun
+akteur ist nicht der urprung sondern ein konzept was auf speicher und verabeiten existiert
+nur weil es diese beiden grundsteine gibt können wir akteuer darauf bauen
+
+UML
+Klasse: Kasten mit spitzer Ecke
+oben in den Kaste: Bezeichner (der Name wie man die Klasse nennen wollen) und ist gleichzeitig der Name des Typ
+-----> Typ - Bezeichner - Klasse  zusammen merken
+
+Attribute                       Daten speichern
+alle Variablen in einer Klassen sind Attribute
+
+Methode                         Daten verarbeiten
+
+Felder (Attribute und Methoden) klein schreiben, Typen (Klassen) groß schreiben
+Abhängigkeitssignatur
+
+void = der Typ für nicht vorhandene Rückgabewerte
+da wo was verwendet wird haben mir eine assoziation mit dem was verwendet wird
+
+
+PFEILE
+betrieb verwalten(angestellter) Pfeil geht von betrieb zu angestellter
+
+Pfeilrichtung Abhängigkeiten von Klassen:
+Wer braucht wen? ich zeig auf alles was ich brauche
+
+Pfeilrichtung Generalisierung:
+damit ich etwas spezielles sein kann brauche ich....

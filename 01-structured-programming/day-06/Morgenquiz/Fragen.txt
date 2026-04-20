@@ -1,0 +1,23 @@
+Was ist ein Akteur?
+	Eine Variable im Programmcode.
+	Jemand oder etwas, der/die/das in unserem Kontext Aktivitäten ausübt.
+	Ein Knoten.
+	Ein Dateityp.
+
+Was sind Variablen?
+	Variablen haben einen Bezeichner, unter dem sie einen Wert von einem bestimmten Typ speichern.
+	Programme, die automatisch ausgeführt werden.
+	Funktionen, die keine Eingaben benötigen.
+	Dateien, die Code enthalten.
+
+Was sind Methoden und welche Varianten kennen wir?
+	Methoden sind Speicherorte für Bilder.
+	Methoden sind nur zur Darstellung von Texten da.
+	Methoden verarbeiten Daten, mit oder ohne Parameter und Rückgabewert.
+	Methoden sind ausschließlich für die Eingabe von Benutzerdaten zuständig.
+
+Was ist ein Zustand (State) in der Programmierung?
+	Eine Programmiersprache.
+	Die Speicherorte an denen Variablen gespeichert sind.
+	Eine Etappe im Programm. Daten ergeben ein gemeinsames Bild.
+	Ein Fehler im Code.

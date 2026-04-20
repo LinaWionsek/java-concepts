@@ -1,0 +1,11 @@
+Was ist ein Akteur?
+	Jemand oder etwas, der/die/das in unserem Kontext Aktivitäten ausübt.
+
+Was sind Variablen?
+	Variablen haben einen Bezeichner, unter dem sie einen Wert von einem bestimmten Typ speichern.
+
+Was sind Methoden und welche Varianten kennen wir?
+	Methoden verarbeiten Daten, mit oder ohne Parameter und Rückgabewert.
+
+Was ist ein Zustand (State) in der Programmierung?
+	Eine Etappe im Programm. Daten ergeben ein gemeinsames Bild.
