@@ -1,3 +1,9 @@
+https://www.jetbrains.com/help/idea/mastering-keyboard-shortcuts.html
+
 sout -> shortcut für System.out.println()
 STRG + D zum duplizieren
 main - public static void main(String[] args) {}
+----------------------------------------
+nutzer.beitragVerfassen(""); STRG + ALT + V dann auf nutzer.beitragVerfassen(...) dann Variablennamen auswählen und dann kommt:
+Beitrag beitragVerfassen = nutzer.beitragVerfassen("");
+----------------------------------------

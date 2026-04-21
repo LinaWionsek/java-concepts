@@ -1,4 +1,4 @@
-public class RegistrierterBesucher {
+public class RegistrierterBesucher extends Besucher {
     String name;
 
     Beitrag beitragVerfassen(String inhalt) {

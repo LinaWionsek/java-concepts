@@ -17,5 +17,17 @@ variable adresse, haus objekt, bauplan klasse
 
 input.nextLine() - im scanner ist die Methode nextLine definiert
 
+Classes vs Objects
+https://www.baeldung.com/cs/class-object-differences
+Java OOP
+https://www.baeldung.com/java-oop
+
+Klassenteile
 Keyword (class - Klasse), danach Bezeichnung, Körper da kommen Attribute und Methoden rein
+
+Methodenteile
+Rückgabetyp (return type)   Methodenname
+Beitrag                     beitragVerfassen(String inhalt){}
+
+
 wenn man sich einen eigenen Typen erstellen will, muss man das über ne klasse machen?

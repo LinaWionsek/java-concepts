@@ -10,5 +10,7 @@ public class ForumMain {
         System.out.println(meinBeitrag.text);
         System.out.println("Verfasst von:");
         System.out.println(meinBeitrag.verfasserNamen);
+
+        nutzer.beitragLesen(meinBeitrag);
     }
 }
