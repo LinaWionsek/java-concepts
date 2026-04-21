@@ -4,6 +4,8 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         int satzAnzahlKonfiguration = 10;
+
+        //input speichert ein Objet vom Typ Scanner
         Scanner inputscanner = new Scanner(System.in); // Typ scanner öffnen Kommunikationskanal bei dem wir auf unseren input zugreifen
         // scanner kann auf input mitlesen
 

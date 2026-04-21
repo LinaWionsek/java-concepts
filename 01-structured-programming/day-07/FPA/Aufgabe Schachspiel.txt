@@ -1,0 +1,4 @@
+Aufgabe Schachspiel:
+Die Klasse Partie besitzt die Attribute "spielerNameWeiss", "spielerNameSchwarz" und "ergebnis", sowie die Methode "spielen". Es gibt auch eine Klasse für die Spieler, die dann einen Namen haben, außerdem kennen sie den Verein, in dem sie sind. In Objekten für die Vereine soll gespeichert werden wie viele Spiele jeweils gewonnen und verloren wurden, und die Anzahl der Spieler im Verein.
+
+Erstellen Sie bitte ein entsprechendes Klassendiagramm. Verwenden Sie passende Datentypen.

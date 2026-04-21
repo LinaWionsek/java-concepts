@@ -1,0 +1,21 @@
+Member = mitgleid einer klassem member is das selbe wie felder
+Einstiegspunkt (main) methode
+!!!!!Ein Objekt ist eine Konkrete Instanz einer Klasse!!!!!
+Klasse ist der Bauplan
+Objekt ? irgendetwas was gespeichert wird
+Instanz - von einem bestimmten Typ eine Instanz
+
+Objekt und Instanz ist das selbe
+Klassenname als Methode
+
+
+//input speichert ein Objet vom Typ Scanner
+Scanner input = new Scanner(System.in);
+Klasse  variable
+
+variable adresse, haus objekt, bauplan klasse
+
+input.nextLine() - im scanner ist die Methode nextLine definiert
+
+Keyword (class - Klasse), danach Bezeichnung, Körper da kommen Attribute und Methoden rein
+wenn man sich einen eigenen Typen erstellen will, muss man das über ne klasse machen?

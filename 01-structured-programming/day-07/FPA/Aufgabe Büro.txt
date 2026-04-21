@@ -1,0 +1,4 @@
+Aufgabe Büro:
+Ein Mitarbeiter hat Vor- und Nachnamen, eine Qualifikation und bekommt ein bestimmtes Gehalt. Ein Mitarbeiter kann einen Kunden bearbeiten. Ein Kunde hat einen Nachnamen und eine Adresse, und kann die Löschung der eigenen Daten beantragen. Jeder Mitarbeiter hat ein eigenes Büro, hier wird der aktuell zu bearbeitende Kunde erfasst.
+
+Erstellen Sie bitte ein entsprechendes Klassendiagramm. Wählen Sie passende Datentypen.
