@@ -1,0 +1,11 @@
+Was ist im UML Klassendiagramm dargestellt?
+	Klassen, Objekte, deren Member und Assoziationen.
+
+Was sind die drei Bestandteile der Klassennotation im UML Klassendiagramm?
+	Bezeichner, Variablen, Methoden
+
+Was ist eine Klasse?
+	Klassen sind Baupläne für Objekte.
+
+Was sind Member-Variablen oder auch Feld-Variablen?
+	Variablen, die in einer Klasse oder einem Objekt genutzt werden.

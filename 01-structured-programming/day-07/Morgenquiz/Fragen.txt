@@ -1,0 +1,23 @@
+Was ist im UML Klassendiagramm dargestellt?
+	Die Netzwerkverbindung zwischen Servern.
+	Nur die Benutzeroberfläche eines Programms.
+	Die Reihenfolge der Codeausführung.
+	Klassen, Objekte, deren Member und Assoziationen.
+
+Was sind die drei Bestandteile der Klassennotation im UML Klassendiagramm?
+	Farben, Formen, Größen
+	Bezeichner, Variablen, Methoden
+	Speicherorte, Dateinamen, Dateitypen
+	Kommentare, Schleifen, Bedingungen
+
+Was ist eine Klasse?
+	Eine Schleife zur Wiederholung von Code.
+	Klassen sind Baupläne für Objekte.
+	Ein Speicherort für Dateien.
+	Eine Methode zur Datenübertragung.
+
+Was sind Member-Variablen oder auch Feld-Variablen?
+	Variablen, die in einer Klasse oder einem Objekt genutzt werden.
+	Kommentare im Quellcode.
+	Variablen, die nur in Datenbanken verwendet werden.
+	Methoden zur Datenverarbeitung.
