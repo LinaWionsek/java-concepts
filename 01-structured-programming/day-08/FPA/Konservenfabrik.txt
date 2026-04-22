@@ -1,0 +1,16 @@
+Die Klasse Mitarbeiter besitzt die Attribute Name(public) und Gehalt(private) sowie die Methode arbeite. Mitarbeiter ist Basisklasse von Maschinenbediener und Bürokraft, die also beide von Mitarbeiter erben. Bürokraft hat zusätzlich das Attribut Büro_ID(public).
+
+Jede Bürokraft kann genau einem Büro zugeordnet werden, ein Büro kann aber aktuell unbesetzt sein, oder eine nach oben offene Anzahl von Bürokräften zugeordnet sein.
+
+Die Klasse Büro besitzt die Attribute Telefonnummer und Gebäude_ID (beide public). Ein Büro ist Teil der Klasse Gebäude und existiert nur solange, solange das Gebäude existiert. Die Klasse Gebäude besitzt das Attribut Adresse(public).
+
+Ein Maschinenbediener bedient aktuell möglicherweise keine Maschine, höchstens aber zeitgleich 3 Maschinen. Eine Maschine kann aktuell außer Betrieb sein, oder aber wird anderenfalls nur von einem Mitarbeiter bedient.
+
+Die Klasse Maschine besitzt die Attribute Baujahr(public) und FehlerProJahr(private), sowie die Methode arbeite.
+
+Die Klasse Maschine ist eine Basisklasse der Klassen Konservendosenbefüller und Etikettenanbringer.
+
+
+Aufgabenstellung:
+
+Erstellen Sie bitte ein entsprechendes Klassendiagramm

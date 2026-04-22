@@ -21,3 +21,9 @@ Aggregation
 
 Aggregation: Teile brauchen nicht zwingend ihr Ganzes
 Kopmpsition bindet stärker -> Komposition bindete kompakter
+
+Assoziation geschlossener FAll
+Vererbung offener FAll vom Speziallen auf das Generelle, das Spezielle ist vom Generellen abhängig
+
+Log:
+Aggregation, Komposition, Referenzen

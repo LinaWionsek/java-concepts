@@ -1,0 +1,23 @@
+Was ist ein Objekt?
+	Ein Fehler im Programm.
+	Ein Kommentar im Quellcode.
+	Eine konkrete Instanz einer Klasse zur Laufzeit.
+	Eine Datei mit Programmcode.
+
+Was sind Instanz-Variablen?
+	Variablen, die nur in der IDE sichtbar sind.
+	Variablen, die zur Laufzeit gelöscht werden.
+	Variablen, die in einem Objekt gehalten werden.
+	Variablen, die nur in Schleifen verwendet werden.
+
+Was sind Member-Variablen oder auch Feld-Variablen?
+	Methoden zur Datenverarbeitung.
+	Variablen, die nur in Datenbanken verwendet werden.
+	Kommentare im Quellcode.
+	Variablen, die in einer Klasse oder einem Objekt genutzt werden.
+
+Was ist die Instanziierung?
+	Das Kompilieren von Quellcode.
+	Das Löschen von Variablen aus dem Speicher.
+	Das Erstellen eines neuen Datentyps.
+	Wir instanziieren ein oder mehrere Objekte aus einer Klasse.

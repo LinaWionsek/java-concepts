@@ -1,0 +1,11 @@
+Was ist ein Objekt?
+    Eine konkrete Instanz einer Klasse zur Laufzeit.
+
+Was sind Instanz-Variablen?
+	Variablen, die in einem Objekt gehalten werden.
+
+Was sind Member-Variablen oder auch Feld-Variablen?
+	Variablen, die in einer Klasse oder einem Objekt genutzt werden.
+
+Was ist die Instanziierung?
+	Wir instanziieren ein oder mehrere Objekte aus einer Klasse.

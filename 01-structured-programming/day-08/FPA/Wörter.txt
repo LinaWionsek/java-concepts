@@ -1,0 +1,16 @@
+Die Klassen Zeichenkette besitzt die Attribute String und Autor_ID, sowie die Methode anzeigen (alles public).
+
+Zeichenkette ist Basisklasse der Klassen Text, Satz und Wort. Ein Text besteht aus mindestens einem Satz. Ein Satz muss zu keinem Text gehören, kann aber zu mehreren gehören. Ein Satz besteht aus mindestens einem Wort. Ein Wort muss zu keinem Satz gehören, kann aber zu mehreren gehören.
+
+Die Klasse Autor besitzt die Attribute Autor_ID, Gruppe_ID und Name, sowie die Methode schreiben (alles public). Jedem Autor kann mindestens eine Zeichenkette zugeordnet werden. Jede Zeichenkette kann genau einem Autor zugeordnet werden.
+
+Ein Autor kann Mitglied einer Autorengruppe sein (falls er zu keiner Gruppe gehört, so hat seine Gruppe_ID den Wert NULL). Falls aber die Gruppe aufgelöst werden sollte, so bleibt er natürlich Autor.
+
+
+
+
+
+
+Aufgabenstellung:
+
+Erstellen Sie bitte ein entsprechendes Klassendiagramm

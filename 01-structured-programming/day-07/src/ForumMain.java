@@ -12,7 +12,7 @@ public class ForumMain {
         System.out.println("Beitrag:");
         System.out.println(meinBeitrag.text);
         System.out.println("Verfasst von:");
-        System.out.println(meinBeitrag.verfasserNamen);
+        System.out.println(meinBeitrag.verfasser.name);
 
         nutzer.beitragLesen(meinBeitrag, nutzer.name);
         unregistrierterNutzer.beitragLesen(meinBeitrag, unregistrierterNutzer.name);
