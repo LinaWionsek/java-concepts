@@ -1,5 +1,7 @@
 public class Besucher {
-   void beitragLesen(Beitrag beitrag){
-       System.out.println("nutzer liest Beitrag: " + beitrag.text);
+    final String name = "Nutzer";
+
+    void beitragLesen(Beitrag beitrag, String username) {
+        System.out.println(username + " liest Beitrag: " + beitrag.text);
     }
 }

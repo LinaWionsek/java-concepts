@@ -1,0 +1,1 @@
+wenn man sich einen eigenen Typen erstellen will, muss man das über ne klasse machen?

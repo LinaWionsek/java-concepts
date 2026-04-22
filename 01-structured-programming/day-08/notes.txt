@@ -1,0 +1,23 @@
+Klasse existiert schon bevor das Programm läuft
+Instanz sind immer Objekte
+
+Instanzvariablen, Member variablen, Feldvariablen, Attribute sind das selbe
+
+Wir merken uns den Speicherort (Adresse) von unserem ort, und wir sagen der sprache schau mal an dieser adresse findst du das und das und da machst du das
+Sobald wir objekte haben haben wir immer referenzen (überall
+Alle Objekte liegen im Arbeitsspeicher, JDk sorgt dafür dass alles zusammenpasst
+in objekten werden adressen zu anderen objekten gespeichert
+
+
+UML
+Assoziationen = irgendeine Form von Beziehung
+Bewohzner sind Teile eines ganzen Hauses
+Aggregation ist eine spezielle Variante der Assoziation, Route ist der Anfang vom Pfeil
+Aggregation
+
+!!!!!---Über methoden: Assoziation
+Über Attribute: Aggregation oder Komposition---!!!!!
+
+
+Aggregation: Teile brauchen nicht zwingend ihr Ganzes
+Kopmpsition bindet stärker -> Komposition bindete kompakter
