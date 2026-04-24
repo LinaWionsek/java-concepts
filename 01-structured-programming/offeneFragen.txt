@@ -1,1 +1,2 @@
 wenn man sich einen eigenen Typen erstellen will, muss man das über ne klasse machen?
+Package wie eine Art Ordner mit dem Java arbeiten kann? So wie in Angular nur dass du nen speziellen Ordner brauchst (Package) damit eine Klasse außerhalb des packages auf eine klasse im drunter liegenden Package zugreifen kann?

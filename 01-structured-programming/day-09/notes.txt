@@ -1,0 +1,14 @@
+Interface
+sowas ähnliches wie klassen (ne spezielle variante einer Klasse
+häufig geben wir eine Eigenschaft an (was man dadurch kann)
+Interface = Schnittstelle
+wir fassen mehrere objekte unter einem vertrag zusammen
+
+wir fassen objekte von komplett verschiedenen Typen unter einen gemeinsamen nenner zusammen
+
+Interface wie eine schnittstelle oder vertrag an den sich gehalten wird
+"ich halte mich an dieses Interface"
+
+wie ein vertrag zwischen objekt und interface
+wenn das interface die metheode hat aber das objekt nicht, funktioniert es nicht, weil sich das objekt nicht ans interface hält
+z.b wenn interface kannPersonenTransportieren die Methode "transportieren()" hat aber die Klasse PKW hat die Methode nicht: Dann schmeißt Java nen Fehler
